@@ -166,7 +166,7 @@
   content: 'hello';
   position: absolute;
   inset: 6px;
-  background: url("image/s.jpeg");
+  background: url("s.jpeg");
   background-size: cover;
   border-radius: 50%;
   z-index: 1;
